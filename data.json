@@ -1,0 +1,23 @@
+{
+    "5377089091": {
+        "name": "Davronbek",
+        "age": 21,
+        "todos": [
+            {
+                "task": "Kitob o'qish",
+                "done": true,
+                "date": "2025-11-01"
+            },
+            {
+                "task": "Uy ishlarini qilish",
+                "done": false,
+                "date": "2025-11-01"
+            }
+        ]
+    },
+    "8130326678": {
+        "name": "Сакинабону",
+        "age": 21,
+        "todos": []
+    }
+}
