@@ -14,7 +14,7 @@ import json
 import os
 from datetime import datetime
 
-TOKEN = "8231149964:AAF8-9uV4M2yngZcMyxk9UPK05PsHRCZt64"
+TOKEN = ""
 
 dp = Dispatcher()
 DATA_FILE = "data.json"
